@@ -2,7 +2,7 @@
 
 "I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice." 
 
-Used old work at: https://github.com/COSC3020/divide-and-conquer-sum-Powerfuljackell-1
+Used prior approved work at: https://github.com/COSC3020/divide-and-conquer-sum-Powerfuljackell-1
 
 In the lectures, we've covered merge sort, which uses a divide-and-conquer
 approach to sort an array of values. There are many more algorithms that take
